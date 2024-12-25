@@ -34,7 +34,7 @@
 					"enabled"							"1"
 					"proportionaltoparent"				"1"
 					"use_proportional_insets"			"1"
-					"labelText"							"3D Player Model"
+					"labelText"							"Player Model"
 					"font"								"ItemFontNameSmallest"
 					"textAlignment"						"center"
 					"textinsetx"						"5"
