@@ -247,12 +247,12 @@
 	}		
 	"TipImage"
 	{
-		"ypos"			"382"
+		"ypos"			"392"
 	}
 	"TipText"
 	{
-		"ypos"			"375"
-		"ypos_hidef"	"332"
-		"ypos_lodef"	"332"
+		"ypos"			"385"
+		"ypos_hidef"	"342"
+		"ypos_lodef"	"342"
 	}
 }
