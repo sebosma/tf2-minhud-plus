@@ -50,15 +50,15 @@
 			"ControlName"	"CBaseModelPanel"
 			"fieldName"		"RankModel"
 			"xpos"			"cs-0.5"
-			"ypos"			"cs-0.5+2"
+			"ypos"			"cs-0.5"
 			"zpos"			"0"		
 			"wide"			"o1"
-			"tall"			"90"
+			"tall"			"p0.12"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fov"			"60"
+			"fov"			"70"
 			"proportionaltoparent"	"1"
 
 			if_mini
@@ -67,7 +67,6 @@
 				"ypos"		"cs-0.5"
 				"wide"		"200"
 				"tall"		"200"
-				"fov"		"70"
 			}
 
 			"paintbackground"	"0"
