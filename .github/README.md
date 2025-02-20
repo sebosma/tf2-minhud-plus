@@ -47,7 +47,7 @@
 - Removed unused "style" and "paint" labels seen when previewing map stamps.
 - Updated the Replay page header and footer to match other main menu screens.
 
-#### Quality of Life Changes
+### Quality of Life Changes
 - Added a menu for toggling the crosshair, speedometer, damage numbers, transparent viewmodels and more.
 - Added buttons for changing team colors on the Loadout screen.
 - Added casual and competitive stats to the main menu.
