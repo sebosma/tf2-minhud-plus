@@ -6,9 +6,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r86"	[$WIN32]
-		"ypos"			"r160"	[$WIN32]
+		"ypos"			"r110"	[$WIN32]
 		"xpos_minmode"	"r70"	[$WIN32]
-		"ypos_minmode"	"r135"	[$WIN32]
+		"ypos_minmode"	"r125"	[$WIN32]
 		"wide"			"100"
 		"tall"			"60"
 		"MeterFG"		"White"
@@ -19,20 +19,20 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"2"
+		"ypos"			"5"
 		"zpos"			"0"
-		"wide"			"90"
-		"tall"			"56"
+		"wide"			"110"
+		"tall"			"40"
 		"visible"		"1"
-		"visible_minmode"	"0"
+		"visible_minmode"	"1"
 		"enabled"		"1"
-		"image"			"../hud/misc_ammo_area_blue"
+		"image"			"../hud/misc_ammo_area_horiz1_blue"
 		"scaleImage"	"1"	
-		"teambg_2"		"../hud/misc_ammo_area_red"
+		"teambg_2"		"../hud/misc_ammo_area_horiz3_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
-		"teambg_3"		"../hud/misc_ammo_area_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+		"teambg_3"		"../hud/misc_ammo_area_horiz3_blue"
+		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"					
 	}
 	
 	"ItemEffectIcon"
@@ -40,7 +40,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectIcon"
 		"xpos"			"12"
-		"xpos_minmode"	"36"
+		"xpos_minmode"	"37"
 		"ypos"			"7"
 		"ypos_minmode"	"14"
 		"zpos"			"1"
@@ -65,7 +65,7 @@
 		"tall"					"25"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
@@ -100,7 +100,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"24"
-		"xpos_minmode"			"40"
+		"xpos_minmode"			"41"
 		"ypos"					"11"
 		"ypos_minmode"			"18"
 		"zpos"					"2"
